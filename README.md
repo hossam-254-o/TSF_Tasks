@@ -1,2 +1,2 @@
 # TSF_Tasks
-Data science &amp; Business Analytics Intern 
+Data Science &amp; Business Analytics Intern 
